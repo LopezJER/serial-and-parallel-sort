@@ -1,0 +1,1 @@
+Please read the separate readmes of each directory to see how to run each sorting program.
